@@ -16,7 +16,7 @@
     <repository>
       <id>github</id>
       <name>GitHub Packages</name>
-      <url>https://maven.pkg.github.com/akunmkepl/continuous_deployment</url>
+      <url>https://maven.pkg.github.com/Sharsbudi/COTS-deployment</url>
     </repository>
   </distributionManagement>
   
